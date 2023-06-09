@@ -1,6 +1,6 @@
 # 2048-game
 
-![img](https://github.com/Qumico/2048-game/preview.png)
+![img](https://raw.githubusercontent.com/Qumico/2048-game/main/preview.png)
 
 Игра созданная на движке Defold
 
